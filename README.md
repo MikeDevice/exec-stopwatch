@@ -1,6 +1,11 @@
 # exec-stopwatch
 Simple stopwatch for execution time measurement.
 
+## Installation
+```
+npm install exec-stopwatch
+```
+
 ## Usage
 ```js
 var stopwatch = new Stopwatch();
