@@ -8,6 +8,8 @@ npm install exec-stopwatch
 
 ## Usage
 ```js
+var Stopwatch = require('exec-stopwatch');
+
 var stopwatch = new Stopwatch();
 
 stopwatch.start();
