@@ -1,0 +1,29 @@
+{
+  "name": "exec-stopwatch",
+  "version": "0.0.1",
+  "description": "Simple stopwatch for execution time measurement",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeDevice/exec-stopwatch.git"
+  },
+  "keywords": [
+    "stopwatch",
+    "execution",
+    "time",
+    "measurement"
+  ],
+  "author": "Mikhail Vyrodov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MikeDevice/exec-stopwatch/issues"
+  },
+  "homepage": "https://github.com/MikeDevice/exec-stopwatch#readme",
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-dvpnt": "1.4.2"
+  }
+}
