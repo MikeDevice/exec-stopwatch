@@ -32,4 +32,5 @@ asyncFunction(function() {
 * `.start()` — runs stopwatch;
 * `.lap()` — saves elapsed time of current lap. Returns this time in nanoseconds;
 * `.stop()` — stops stopwatch;
+* `.getLapsTime()` — returns times for each lap;
 * `.getElapsedTime()` — returns time, elapsed from the moment of `start` method call until `stop` method call.

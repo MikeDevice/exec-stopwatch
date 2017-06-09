@@ -24,6 +24,7 @@
   "homepage": "https://github.com/MikeDevice/exec-stopwatch#readme",
   "devDependencies": {
     "eslint": "3.19.0",
-    "eslint-config-dvpnt": "1.4.2"
+    "eslint-config-dvpnt": "1.4.2",
+    "nrun": "0.1.7"
   }
 }
