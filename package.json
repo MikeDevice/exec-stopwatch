@@ -1,6 +1,6 @@
 {
   "name": "exec-stopwatch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple stopwatch for execution time measurement",
   "main": "index.js",
   "scripts": {
